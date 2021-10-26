@@ -1,0 +1,158 @@
+{'2021-10-26 11:15:27'}: Potential RICs for call options with 20% OTM for 2020 are constructed
+{'2021-10-26 11:16:14'}: No call option is purchased for month 2
+{'2021-10-26 11:16:49'}: No call option is purchased for month 3
+{'2021-10-26 11:17:42'}: No call option is purchased for month 8
+{'2021-10-26 11:19:08'}: No call option is purchased for month 10
+{'2021-10-26 11:19:09'}: 8 short call transactions for 2020 are registered
+{'2021-10-26 11:19:17'}: Potential RICs for put options with 10% OTM for 2020 are constructed
+{'2021-10-26 11:19:41'}: 12 long put transactions for 2020 are registered
+{'2021-10-26 11:21:58'}: Positions for option pair opened on 2019-12-02 has been exited through offset transaction
+{'2021-10-26 11:21:58'}: Positions for option pair opened on 2020-01-02 has been exited through offset transaction
+{'2021-10-26 11:21:59'}: Positions for option pair opened on 2020-02-03 has been exited through offset transaction
+{'2021-10-26 11:22:00'}: Positions for option pair opened on 2020-05-01 has been exited through offset transaction
+{'2021-10-26 11:22:00'}: Positions for option pair opened on 2020-06-01 has been exited through offset transaction
+{'2021-10-26 11:28:55'}: Potential RICs for call options with 10% OTM for 2015 are constructed
+{'2021-10-26 11:29:05'}: No call option is purchased for month 1
+{'2021-10-26 11:29:25'}: No call option is purchased for month 12
+{'2021-10-26 11:29:25'}: 10 short call transactions for 2015 are registered
+{'2021-10-26 11:29:31'}: Potential RICs for put options with 20% OTM for 2015 are constructed
+{'2021-10-26 11:29:38'}: No put option is purchased for month 1
+{'2021-10-26 11:29:53'}: No put option is purchased for month 12
+{'2021-10-26 11:29:53'}: 10 long put transactions for 2015 are registered
+{'2021-10-26 11:31:15'}: Potential RICs for call options with 10% OTM for 2015 are constructed
+{'2021-10-26 11:31:23'}: No call option is purchased for month 1
+{'2021-10-26 11:31:45'}: No call option is purchased for month 12
+{'2021-10-26 11:31:45'}: 10 short call transactions for 2015 are registered
+{'2021-10-26 11:31:52'}: Potential RICs for put options with 20% OTM for 2015 are constructed
+{'2021-10-26 11:32:00'}: No put option is purchased for month 1
+{'2021-10-26 11:32:15'}: No put option is purchased for month 12
+{'2021-10-26 11:32:15'}: 10 long put transactions for 2015 are registered
+{'2021-10-26 11:32:19'}: Positions for option pair opened on 2015-08-03 has been exited through offset transaction
+{'2021-10-26 11:32:30'}: 22 option transactions are conducted
+{'2021-10-26 11:32:36'}: Potential RICs for call options with 20% OTM for 2015 are constructed
+{'2021-10-26 11:32:45'}: No call option is purchased for month 1
+{'2021-10-26 11:33:29'}: No call option is purchased for month 12
+{'2021-10-26 11:33:29'}: 10 long call transactions for 2015 are registered
+{'2021-10-26 11:33:35'}: Potential RICs for put options with 10% OTM for 2015 are constructed
+{'2021-10-26 11:33:42'}: No put option is purchased for month 1
+{'2021-10-26 11:33:58'}: No put option is purchased for month 12
+{'2021-10-26 11:33:58'}: 10 short put transactions for 2015 are registered
+{'2021-10-26 11:34:02'}: Positions for option pair opened on 2015-08-03 has been exited through offset transaction
+{'2021-10-26 11:34:14'}: 22 option transactions are conducted
+{'2021-10-26 11:34:20'}: Potential RICs for call options with 10% OTM for 2016 are constructed
+{'2021-10-26 11:34:44'}: 12 short call transactions for 2016 are registered
+{'2021-10-26 11:34:49'}: Potential RICs for put options with 20% OTM for 2016 are constructed
+{'2021-10-26 11:35:00'}: 12 long put transactions for 2016 are registered
+{'2021-10-26 11:35:04'}: Positions for option pair opened on 2016-05-02 has been exited through offset transaction
+{'2021-10-26 11:35:06'}: Positions for option pair opened on 2016-06-01 has been exited through offset transaction
+{'2021-10-26 11:35:08'}: Positions for option pair opened on 2016-08-01 has been exited through offset transaction
+{'2021-10-26 11:35:09'}: Positions for option pair opened on 2016-09-01 has been exited through offset transaction
+{'2021-10-26 11:35:26'}: 32 option transactions are conducted
+{'2021-10-26 11:35:31'}: Potential RICs for call options with 20% OTM for 2016 are constructed
+{'2021-10-26 11:36:04'}: 12 long call transactions for 2016 are registered
+{'2021-10-26 11:36:10'}: Potential RICs for put options with 10% OTM for 2016 are constructed
+{'2021-10-26 11:36:22'}: 12 short put transactions for 2016 are registered
+{'2021-10-26 11:36:26'}: Positions for option pair opened on 2016-05-02 has been exited through offset transaction
+{'2021-10-26 11:36:27'}: Positions for option pair opened on 2016-06-01 has been exited through offset transaction
+{'2021-10-26 11:36:29'}: Positions for option pair opened on 2016-08-01 has been exited through offset transaction
+{'2021-10-26 11:36:30'}: Positions for option pair opened on 2016-09-01 has been exited through offset transaction
+{'2021-10-26 11:36:45'}: 32 option transactions are conducted
+{'2021-10-26 11:36:50'}: Potential RICs for call options with 10% OTM for 2017 are constructed
+{'2021-10-26 11:37:14'}: 12 short call transactions for 2017 are registered
+{'2021-10-26 11:37:19'}: Potential RICs for put options with 20% OTM for 2017 are constructed
+{'2021-10-26 11:37:31'}: 12 long put transactions for 2017 are registered
+{'2021-10-26 11:37:34'}: Positions for option pair opened on 2017-04-03 has been exited through offset transaction
+{'2021-10-26 11:37:35'}: Positions for option pair opened on 2017-05-01 has been exited through offset transaction
+{'2021-10-26 11:37:37'}: Positions for option pair opened on 2017-07-03 has been exited through offset transaction
+{'2021-10-26 11:37:39'}: Positions for option pair opened on 2017-08-01 has been exited through offset transaction
+{'2021-10-26 11:37:54'}: 32 option transactions are conducted
+{'2021-10-26 11:37:59'}: Potential RICs for call options with 20% OTM for 2017 are constructed
+{'2021-10-26 11:39:00'}: No call option is purchased for month 12
+{'2021-10-26 11:39:00'}: 11 long call transactions for 2017 are registered
+{'2021-10-26 11:39:06'}: Potential RICs for put options with 10% OTM for 2017 are constructed
+{'2021-10-26 11:39:17'}: 12 short put transactions for 2017 are registered
+{'2021-10-26 11:39:21'}: Positions for option pair opened on 2017-04-03 has been exited through offset transaction
+{'2021-10-26 11:39:22'}: Positions for option pair opened on 2017-05-01 has been exited through offset transaction
+{'2021-10-26 11:39:24'}: Positions for option pair opened on 2017-07-03 has been exited through offset transaction
+{'2021-10-26 11:39:25'}: Positions for option pair opened on 2017-08-01 has been exited through offset transaction
+{'2021-10-26 11:39:17'}: Transations with 2017-12-15 00:00:00 expiration date has been removed because of unavailble option pair
+{'2021-10-26 11:39:39'}: 30 option transactions are conducted
+{'2021-10-26 11:39:45'}: Potential RICs for call options with 10% OTM for 2018 are constructed
+{'2021-10-26 11:40:02'}: 12 short call transactions for 2018 are registered
+{'2021-10-26 11:40:07'}: Potential RICs for put options with 20% OTM for 2018 are constructed
+{'2021-10-26 11:40:20'}: 12 long put transactions for 2018 are registered
+{'2021-10-26 11:40:22'}: Positions for option pair opened on 2018-01-02 has been exited through offset transaction
+{'2021-10-26 11:40:23'}: Positions for option pair opened on 2018-02-01 has been exited through offset transaction
+{'2021-10-26 11:40:27'}: Positions for option pair opened on 2018-09-04 has been exited through offset transaction
+{'2021-10-26 11:40:29'}: Positions for option pair opened on 2018-10-01 has been exited through offset transaction
+{'2021-10-26 11:40:42'}: 32 option transactions are conducted
+{'2021-10-26 11:40:48'}: Potential RICs for call options with 20% OTM for 2018 are constructed
+{'2021-10-26 11:41:35'}: 12 long call transactions for 2018 are registered
+{'2021-10-26 11:41:42'}: Potential RICs for put options with 10% OTM for 2018 are constructed
+{'2021-10-26 11:41:54'}: 12 short put transactions for 2018 are registered
+{'2021-10-26 11:41:56'}: Positions for option pair opened on 2018-01-02 has been exited through offset transaction
+{'2021-10-26 11:41:57'}: Positions for option pair opened on 2018-02-01 has been exited through offset transaction
+{'2021-10-26 11:42:01'}: Positions for option pair opened on 2018-09-04 has been exited through offset transaction
+{'2021-10-26 11:42:03'}: Positions for option pair opened on 2018-10-01 has been exited through offset transaction
+{'2021-10-26 11:42:19'}: 32 option transactions are conducted
+{'2021-10-26 11:42:25'}: Potential RICs for call options with 10% OTM for 2019 are constructed
+{'2021-10-26 11:42:40'}: 12 short call transactions for 2019 are registered
+{'2021-10-26 11:42:45'}: Potential RICs for put options with 20% OTM for 2019 are constructed
+{'2021-10-26 11:42:56'}: 12 long put transactions for 2019 are registered
+{'2021-10-26 11:42:59'}: Positions for option pair opened on 2019-05-01 has been exited through offset transaction
+{'2021-10-26 11:43:01'}: Positions for option pair opened on 2019-07-01 has been exited through offset transaction
+{'2021-10-26 11:43:02'}: Positions for option pair opened on 2019-08-01 has been exited through offset transaction
+{'2021-10-26 11:43:16'}: 30 option transactions are conducted
+{'2021-10-26 11:43:21'}: Potential RICs for call options with 20% OTM for 2019 are constructed
+{'2021-10-26 11:44:12'}: 12 long call transactions for 2019 are registered
+{'2021-10-26 11:44:18'}: Potential RICs for put options with 10% OTM for 2019 are constructed
+{'2021-10-26 11:44:32'}: 12 short put transactions for 2019 are registered
+{'2021-10-26 11:44:36'}: Positions for option pair opened on 2019-05-01 has been exited through offset transaction
+{'2021-10-26 11:44:38'}: Positions for option pair opened on 2019-07-01 has been exited through offset transaction
+{'2021-10-26 11:44:39'}: Positions for option pair opened on 2019-08-01 has been exited through offset transaction
+{'2021-10-26 11:44:53'}: 30 option transactions are conducted
+{'2021-10-26 11:44:59'}: Potential RICs for call options with 10% OTM for 2020 are constructed
+{'2021-10-26 11:45:15'}: 12 short call transactions for 2020 are registered
+{'2021-10-26 11:45:21'}: Potential RICs for put options with 20% OTM for 2020 are constructed
+{'2021-10-26 11:45:32'}: 12 long put transactions for 2020 are registered
+{'2021-10-26 11:45:33'}: Positions for option pair opened on 2019-12-02 has been exited through offset transaction
+{'2021-10-26 11:45:34'}: Positions for option pair opened on 2020-01-02 has been exited through offset transaction
+{'2021-10-26 11:45:35'}: Positions for option pair opened on 2020-02-03 has been exited through offset transaction
+{'2021-10-26 11:45:37'}: Positions for option pair opened on 2020-05-01 has been exited through offset transaction
+{'2021-10-26 11:45:38'}: Positions for option pair opened on 2020-06-01 has been exited through offset transaction
+{'2021-10-26 11:45:54'}: 34 option transactions are conducted
+{'2021-10-26 11:46:00'}: Potential RICs for call options with 20% OTM for 2020 are constructed
+{'2021-10-26 11:46:31'}: 12 long call transactions for 2020 are registered
+{'2021-10-26 11:46:39'}: Potential RICs for put options with 10% OTM for 2020 are constructed
+{'2021-10-26 11:46:51'}: 12 short put transactions for 2020 are registered
+{'2021-10-26 11:46:52'}: Positions for option pair opened on 2019-12-02 has been exited through offset transaction
+{'2021-10-26 11:46:52'}: Positions for option pair opened on 2020-01-02 has been exited through offset transaction
+{'2021-10-26 11:46:53'}: Positions for option pair opened on 2020-02-03 has been exited through offset transaction
+{'2021-10-26 11:46:54'}: Positions for option pair opened on 2020-05-01 has been exited through offset transaction
+{'2021-10-26 11:46:55'}: Positions for option pair opened on 2020-06-01 has been exited through offset transaction
+{'2021-10-26 11:47:12'}: 34 option transactions are conducted
+{'2021-10-26 11:47:18'}: Potential RICs for call options with 10% OTM for 2021 are constructed
+{'2021-10-26 11:47:47'}: No call option is purchased for month 11
+{'2021-10-26 11:48:04'}: No call option is purchased for month 12
+{'2021-10-26 11:48:04'}: 10 short call transactions for 2021 are registered
+{'2021-10-26 11:48:10'}: Potential RICs for put options with 20% OTM for 2021 are constructed
+{'2021-10-26 11:48:34'}: No put option is purchased for month 11
+{'2021-10-26 11:48:46'}: No put option is purchased for month 12
+{'2021-10-26 11:48:46'}: 10 long put transactions for 2021 are registered
+{'2021-10-26 11:48:47'}: Positions for option pair opened on 2021-01-04 has been exited through offset transaction
+{'2021-10-26 11:48:48'}: Positions for option pair opened on 2021-04-01 has been exited through offset transaction
+{'2021-10-26 11:48:49'}: Positions for option pair opened on 2021-05-03 has been exited through offset transaction
+{'2021-10-26 11:49:03'}: 26 option transactions are conducted
+{'2021-10-26 11:49:08'}: Potential RICs for call options with 20% OTM for 2021 are constructed
+{'2021-10-26 11:50:21'}: No call option is purchased for month 11
+{'2021-10-26 11:50:40'}: No call option is purchased for month 12
+{'2021-10-26 11:50:40'}: 10 long call transactions for 2021 are registered
+{'2021-10-26 11:50:47'}: Potential RICs for put options with 10% OTM for 2021 are constructed
+{'2021-10-26 11:51:14'}: No put option is purchased for month 11
+{'2021-10-26 11:51:27'}: No put option is purchased for month 12
+{'2021-10-26 11:51:27'}: 10 short put transactions for 2021 are registered
+{'2021-10-26 11:51:28'}: Positions for option pair opened on 2021-01-04 has been exited through offset transaction
+{'2021-10-26 11:51:29'}: Positions for option pair opened on 2021-04-01 has been exited through offset transaction
+{'2021-10-26 11:51:30'}: Positions for option pair opened on 2021-05-03 has been exited through offset transaction
+{'2021-10-26 11:51:44'}: 26 option transactions are conducted
+{'2021-10-26 12:11:19'}: Potential RICs for call options with 5% OTM for 2015 are constructed
