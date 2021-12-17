@@ -1,6 +1,6 @@
 # Article.EikonAPI.RDP.Python.OptionStrategyBacktesting
 
-##Overview
+## Overview
 
 This article explores how short iron condor strategies can be backtested. The important part of this article is the reconstruction of expired options, which used to be a challenge reported many times in the Developer community Q&A forum. The challenge is that one cannot directly access expired options through a single API call. To get historical data on options, one will need to reconstruct options Refinitiv Identification Codes (RIC) following the logic of RIC construction rules and the rules specified by the exchange where the option is traded. Further, in this article, RIC reconstruction and validation functions are presented; they can be used for options on OPRA exchange-traded indices and stocks. Functions reconstruct and validate AM settlement options expiring on the 3rd Friday of each month.
 
